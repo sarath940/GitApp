@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("Sarath","Master change 2")
         Log.d("sarath","Feature Commit 1")
         Log.d("sarath","Feature Commit 2")
+        Log.d("sarath","Feature Commit 3")
     }
 }
