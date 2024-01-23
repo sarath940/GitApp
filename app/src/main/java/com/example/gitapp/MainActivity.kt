@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("Sarath","Master change 1")
         Log.d("Sarath","Master change 2")
+        Log.d("Sarath","Master change 3")
     }
 }
