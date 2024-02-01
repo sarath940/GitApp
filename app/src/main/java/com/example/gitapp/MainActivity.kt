@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d("sarath","master commit 1")
+        Log.d("sarath","master commit 2")
     }
 }
