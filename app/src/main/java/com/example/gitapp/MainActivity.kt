@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("sarath","master commit 3")
         Log.d("sarath","Feature commit 1")
         Log.d("sarath","Feature commit 2")
+        Log.d("sarath","Feature commit 3")
     }
 }
